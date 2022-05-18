@@ -2,7 +2,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "http//satis.tushto.com"
+            "url": "http//localhost:4680"
         }
     ]
 }
